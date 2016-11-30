@@ -3,7 +3,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>yh.learn</groupId>
   <artifactId>dubbu_l_facade</artifactId>
-  <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>dubbu_l_facade Maven Webapp</name>
   <url>http://maven.apache.org</url>
